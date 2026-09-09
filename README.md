@@ -2,6 +2,8 @@
 
 Repositorio oficial con los activos de diseño, identidad visual y firmas de correo electrónico profesionales para **Agrocomercial Vida Sana** (Ricardo Hernández M., Director).
 
+🌐 **Sitio Web / Demo en Vivo:** [https://vida-sana-firma.vercel.app](https://vida-sana-firma.vercel.app)
+
 ---
 
 ## 📁 Contenido del Repositorio
@@ -23,9 +25,9 @@ Repositorio oficial con los activos de diseño, identidad visual y firmas de cor
 
 ## 🚀 Uso Rápido
 
-1. **Ver la firma en el navegador**: Abre `index.html` o `firma-email.html` en cualquier navegador web.
+1. **Ver la firma en el navegador**: Ingresa a [https://vida-sana-firma.vercel.app](https://vida-sana-firma.vercel.app) o abre `index.html` localmente.
 2. **Copiar la firma**:
-   - Abre `firma-email.html` y pulsa el botón **"📋 Copiar Firma para Gmail / Outlook"**.
+   - Abre `firma-email.html` o entra a [https://vida-sana-firma.vercel.app/firma-email.html](https://vida-sana-firma.vercel.app/firma-email.html) y pulsa el botón **"📋 Copiar Firma para Gmail / Outlook"**.
    - En tu cliente de correo (Gmail, Outlook, Mail de Apple), dirígete a Configuración > Firmas y pega el contenido (`Cmd + V` / `Ctrl + V`).
 
 ---
