@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hernández M.;Ricardo;;;
+FN:Ricardo Hernández M.
+ORG:Agrocomercial Vida Sana
+TITLE:Director
+TEL;TYPE=CELL,VOICE;VALUE=uri:tel:+56961229430
+EMAIL;TYPE=WORK,INTERNET:rhernandezm@agrocomercialvidasana.cl
+ADR;TYPE=WORK:;;Av. Cerrillo 4030;Pedro Aguirre Cerda;Región Metropolitana;;Santiago, Chile
+URL:https://agrocomercialvidasana.cl
+NOTE:Vida Pro Sana - Food For Life
+X-SOCIALPROFILE;TYPE=whatsapp:https://wa.me/56961229430
+REV:2026-09-03T12:00:00Z
+END:VCARD
